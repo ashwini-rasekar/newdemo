@@ -1,1 +1,2 @@
 This is the first file in my local repo
+Branching is a concept in Git
