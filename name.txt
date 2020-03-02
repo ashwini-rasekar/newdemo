@@ -1,10 +1,6 @@
-<<<<<<< HEAD
+
 David Smith
 Scott A
-=======
-David Deo
-Scott
->>>>>>> branch2
 John 
 Tina
 A P
